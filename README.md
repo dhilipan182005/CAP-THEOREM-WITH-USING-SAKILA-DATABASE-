@@ -1,5 +1,3 @@
----
-
 # 🎬 CAP Theorem Implementation using Sakila Database (MySQL)
 
 ## 📌 Overview
@@ -217,5 +215,3 @@ The experiment successfully demonstrated CAP theorem properties using the Sakila
 * Database Consistency
 * Data Availability
 * Distributed Systems
-
----
